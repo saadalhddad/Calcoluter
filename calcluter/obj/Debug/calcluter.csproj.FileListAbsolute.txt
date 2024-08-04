@@ -1,0 +1,11 @@
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\bin\Debug\calcluter.exe.config
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\bin\Debug\calcluter.exe
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\bin\Debug\calcluter.pdb
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.exe
+C:\Users\pc\Documents\Visual Studio 2022\projects\calcluter\calcluter\obj\Debug\calcluter.pdb
